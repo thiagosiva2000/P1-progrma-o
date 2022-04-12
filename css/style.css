@@ -3,7 +3,7 @@
 body{font-family:'roboto','arial' ;
 }
 body{ background-color: aquamarine;}
-body{background-image: url(../img/pólo-da-loja-de-barbeiro-20546168.jpg);
+body{background-image: url(../img/images.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center center;
@@ -73,7 +73,7 @@ padding: 4px;
 border: 1px solid #ccc;
 }
 
-input[type="tel"]{
+input[type="number"]{
     border-radius: 5px;
     width:30% ;
     padding: 4px;
@@ -88,6 +88,6 @@ margin-top: -240px;
 font-family: Arial, Helvetica, sans-serif;}
 
 .logo{
-    margin-bottom: 140px;
+    margin-bottom: 163px;
 }
  
